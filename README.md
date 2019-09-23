@@ -7,8 +7,8 @@ Morales, H. E., Faria, R., Johannesson, K., Larsson, T., Panova, M., Westram, A.
 https://doi.org/10.1101/447854
 
 ## Contents
-cluster_separation_score.R
-differentiation_index.R
-mixed_dist_model_depth.R
-pi_dxy_per_gene_script.R
-pi_dxy_per_window_script.R
+cluster_separation_score.R  
+differentiation_index.R  
+mixed_dist_model_depth.R  
+pi_dxy_per_gene_script.R  
+pi_dxy_per_window_script.R  
