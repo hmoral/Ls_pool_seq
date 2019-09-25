@@ -8,8 +8,7 @@
 
 # based on Gauthier et al. 2018; Mol. Ecol
 # https://doi.org/10.5061/dryad.r9q3b
-# adapted by Hernan E. Morales
-# if the paper is not published by the time of use please cite both the paper in press and the preprint
+# adapted by Hernan E. Morales for:
 # paper: Morales, H. E., Faria, R., Johannesson, K., Larsson, T., Panova, M., Westram, A. M., & Butlin, R. (in press) Genomic architecture of parallel ecological divergence: beyond a single environmental contrast. Science Advances
 # preprint: Morales, H. E., Faria, R., Johannesson, K., Larsson, T., Panova, M., Westram, A. M., & Butlin, R. (2018). Genomic architecture of parallel ecological divergence: beyond a single environmental contrast. bioRxiv, 447854.
 
