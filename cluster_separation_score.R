@@ -93,13 +93,6 @@ poolsNo<-as.numeric(args[[3]])
 bootstrap<-as.numeric(args[[4]])
 OUTprefix<- args[[5]]
 
-FILE<-"/Users/Fini/Documents/Littorina/Pool-Seq/1_FINAL/1_mns/1_scripts/test_trash.txt.gz"
-SampleInfo<-"~/Documents/Littorina/Pool-Seq/1_FINAL/PCA/sampleInfo.txt"
-poolsNo<-22
-bootstrap<-10
-OUTprefix<- "out_test"
-
-
 ##################
 #   Script       #
 ##################
